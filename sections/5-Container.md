@@ -21,9 +21,7 @@ public class BelajarSpringApplication {
 Class Belajar Configuration
 ```java
 @SpringBootApplication
-public class BelajarSpringApplication {
+public class BelajarConfiguration {
 
-	public static void main(String[] args) {
-        ApplicationContext context = SpringApplication.run(BelajarConfiguration.class, args);
-    }
+	
 }
