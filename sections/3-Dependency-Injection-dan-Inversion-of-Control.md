@@ -30,14 +30,20 @@ Biasanya dalam aplikasi-aplikasi yang sederhana tahapan-tahapannya berjalan seca
 
 permasalahnnya pada system Enterprise atau sistem yang besar, flow sistem tidak berjalan secara sequential seperti di atas. biasanya adalah berdasarkan interaksi yang diterima oleh usernya.
 
+```java
 actionInsert(){
     A field = new A(...)
 }
+```
 
+```java
 actionUpdate(){
     A field = new A(...)
 }
+```
 
+```java
 actionDelete(){
     A field = new A(...)
 }
+```
