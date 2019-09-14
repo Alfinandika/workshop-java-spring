@@ -40,7 +40,7 @@ Lalu kita Test
 
 File BelajarSpringApplication
 ```java
-public class BelajarSpringApplication {
+public class BelajarSpringApplication throws IOException {
 
 	public static void main(String[] args) {
         
