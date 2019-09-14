@@ -1,4 +1,4 @@
-# Workshop JAVA SPRING
+# Workshop JAVA SPRING FRAMEWORK
 
 ## Prerequisite
 
