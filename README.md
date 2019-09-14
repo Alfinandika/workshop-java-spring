@@ -28,6 +28,3 @@
 - [18. Internationalization](sections/18-Internationalization.md)
 - [19. Resource Loader](sections/19-Resource-Loader.md)
 - [20. Property Source](sections/20-Property-Source.md)
-- [21. Spring Validation](sections/21-Spring-Validation.md)
-- [22. Bean Validation](sections/22-Bean-Validation.md)
-- [23. Expression Language](sections/23-Expression-Language.md)
