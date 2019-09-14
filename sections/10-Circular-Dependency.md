@@ -93,6 +93,6 @@ BelajarConfiguration.java
 @Import(SalahConfiguration.class)
 public class BelajarConfiguration {
 
-
+    
 }
 ```
