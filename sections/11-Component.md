@@ -15,7 +15,7 @@ public class SayHello {
 ```
 
 
-File Model/SayHello.java
+File BelajarSpringApplication
 ```java
 public class BelajarSpringApplication {
 

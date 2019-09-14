@@ -2,6 +2,8 @@
 
 ![alt text](../images/9.DI3.png)
 
+Mampukah spring melakukan dependency injection sesuai dengan struktur di atas?
+
 File Model/OtherBean.java
 ```java
 public class OtherBean {
